@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chokidar": "^3.5.2"
+    "chokidar": "^3.5.2",
+    "open": "^8.4.0",
+    "tesseract.js": "^2.1.5"
   }
 }
